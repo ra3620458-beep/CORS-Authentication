@@ -1,0 +1,17 @@
+body {
+    background-color: #f1f4f9;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    max-width: 550px;
+    margin: auto;
+    border-radius: 12px;
+}
+
+#result {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    min-height: 50px;
+}
